@@ -113,3 +113,9 @@ body {
   margin-top: 10px;
   display: none;
 }
+.card-title {
+  text-align: center;
+  color: #fff;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
