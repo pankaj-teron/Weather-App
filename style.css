@@ -58,6 +58,8 @@ body {
   width: 60px;
   height: 60px;
   cursor: pointer;
+  flex-shrink: 0;
+  aspect-ratio: 1 / 1;
 }
 
 .search button img {
